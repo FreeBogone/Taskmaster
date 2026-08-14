@@ -1,7 +1,9 @@
 <Solution>
+  <Project Path="Taskmaster.Scheduler/Taskmaster.Scheduler.csproj" />
   <Project Path="Taskmaster.Server/Taskmaster.csproj" />
   <Project Path="Taskmaster.client/Taskmaster.client.esproj">
     <Build />
     <Deploy />
   </Project>
+  <Project Path="Taskmaster.Worker/Taskmaster.Worker.csproj" />
 </Solution>
